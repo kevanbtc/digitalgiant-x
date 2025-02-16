@@ -10,6 +10,14 @@
       "StackName": "amplify-digitalgiant-dev-ef154",
       "StackId": "arn:aws:cloudformation:us-east-1:253490771313:stack/amplify-digitalgiant-dev-ef154/ec6f3310-ec64-11ef-93d9-12237a0b1a2d",
       "AmplifyAppId": "d14pt5zhfbxls7"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d14pt5zhfbxls7",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
