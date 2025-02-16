@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-digitalgiant-dev-ef154-authRole",
+      "UnauthRoleArn": "arn:aws:iam::253490771313:role/amplify-digitalgiant-dev-ef154-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::253490771313:role/amplify-digitalgiant-dev-ef154-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-digitalgiant-dev-ef154-deployment",
+      "UnauthRoleName": "amplify-digitalgiant-dev-ef154-unauthRole",
+      "StackName": "amplify-digitalgiant-dev-ef154",
+      "StackId": "arn:aws:cloudformation:us-east-1:253490771313:stack/amplify-digitalgiant-dev-ef154/ec6f3310-ec64-11ef-93d9-12237a0b1a2d",
+      "AmplifyAppId": "d14pt5zhfbxls7"
+    }
+  }
+}
